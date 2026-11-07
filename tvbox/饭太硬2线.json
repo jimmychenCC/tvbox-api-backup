@@ -1,5 +1,5 @@
 {
-  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/8057468f8f30ba79c6dbbeb7fc1a052e.jpg;md5;b3fb6f369726e9c688dd5a7ad017d0dd",
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/fb33de4e710fa92f14b56ca20d774ccb.jpg;md5;f25f5960029b82dcb049bae02c07ed6f",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -104,11 +104,7 @@
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "v2": "1",
-        "deviceId": "http://www.饭太硬.cc/6dc66339e1314f88"
-      }
+      "changeable": 1
     },
     {
       "key": "立播",
@@ -257,7 +253,7 @@
     },
     {
       "key": "AiDj",
-      "name": "❤️AI┃短漫剧",
+      "name": "❤️AI剧┃弹幕",
       "type": 3,
       "api": "csp_AiDjGuard",
       "ext": {
